@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(./image/2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+
+}
+.background-img{
+  
+    color: #3e371a;
+    font-size: 5rem;
+    display: flex;
+    justify-content: start;
+    align-items:flex-end;
+    padding-left: 5rem;
+    font-weight: 600;
+    font-family: 'Orbitron', sans-serif;
+    height: 90vh;
+};
+
+
+
+
+
